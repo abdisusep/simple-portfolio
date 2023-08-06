@@ -2,4 +2,4 @@
 Portfolio
 
 
-DEMO TAMPILAN : https://susepdev.github.io/portfolio
+DEMO TAMPILAN : https://susepdev.github.io/simple-portfolio
